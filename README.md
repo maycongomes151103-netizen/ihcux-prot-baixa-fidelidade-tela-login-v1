@@ -2,15 +2,18 @@
 
 
 
+![Tela de login v1 (4)](https://github.com/user-attachments/assets/3b0347cf-8eb9-4c60-b51b-6b2685260450)
 
 
-[Tela de login v1.pdf](https://github.com/user-attachments/files/26317211/Tela.de.login.v1.pdf)
+![Tela de login v1 (4)](https://github.com/user-attachments/assets/11ed6f20-ccc0-43a0-99a4-72abbf947833)
 
 
 
 
 
-![Tela de login v1](https://github.com/user-attachments/assets/05b118c4-26ea-483c-bdef-331ab33e3c86)
+
+
+
 
 
 
